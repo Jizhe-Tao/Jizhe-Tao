@@ -1,4 +1,4 @@
-<h1 align>Hi 👋, I'm Jizhe</h1>
+<h1 align>Hi 👋</h1>
 - 🌱 I’m currently learning **Wireless Sensors/Terahertz Communications**
 
 - 📫 How to reach me **tao.jiz@northeastern.edu**
