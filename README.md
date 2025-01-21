@@ -1,6 +1,6 @@
 <h1 align>Hi 👋</h1>
 
-I’m Jizhe, a graduate student currently studying Wireless and Network Engineering at Northeastern University
+I’m Jizhe, a graduate student currently studying Wireless and Network Engineering at Northeastern University.
 
 EDUCATION:
 - Master of Science in Wireless and Network Engineering at Northeastern University, Boston (Expected: May 2026)
